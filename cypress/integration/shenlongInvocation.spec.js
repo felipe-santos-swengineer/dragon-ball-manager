@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-context('Shenlong Invation Test', () => {
+context('Shenlong Invocation Test', () => {
   before(() => {
     cy.visit('http://localhost:3000/dragon-ball-manager')
   })
